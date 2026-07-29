@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Default Local Group
+  m_EditorClassIdentifier: 
+  m_GroupName: Default Local Group
+  m_Data:
+    m_SerializedData: []
+  m_GUID: b3caab43156c77741b5b978096b4571d
+  m_SerializeEntries:
+  - m_GUID: 4252997c08cd0cc4b8b4a2e40f2b6094
+    m_Address: Prefabs/Cube
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 75b4326791f52bc42a522b77adb521ff
+    m_Address: Prefabs/Conveyor_Spline
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: ec6ec6385ad18e24c8167438f989d816
+    m_Address: Prefabs/Truck
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: c20c8b9ba1832e24aaace09e592a4255, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: f63b88bb587d8a04c84e9940e5b10471, type: 2}
+    - {fileID: 11400000, guid: 7520edb1f99c9724f87d9013851db1ed, type: 2}

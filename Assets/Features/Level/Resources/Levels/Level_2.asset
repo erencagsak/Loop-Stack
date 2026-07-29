@@ -1,0 +1,52 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8bbfb47247081d54185faeb51c43a146, type: 3}
+  m_Name: Level_2
+  m_EditorClassIdentifier: 
+  LevelNumber: 2
+  Splines:
+  - SplineIndex: 2
+    Row: 59
+    Col: 2
+  - SplineIndex: 3
+    Row: 59
+    Col: 20
+  - SplineIndex: 1
+    Row: 76
+    Col: 2
+  - SplineIndex: 4
+    Row: 76
+    Col: 20
+  Trucks:
+  - TruckName: B
+    Rotation: {x: 0, y: 0, z: 0}
+    Row: 73
+    Col: 7
+    CubeColors:
+    - R
+    - R
+    - B
+    - B
+  - TruckName: C
+    Rotation: {x: 0, y: 0, z: 0}
+    Row: 73
+    Col: 11
+    CubeColors:
+    - B
+    - B
+  - TruckName: A
+    Rotation: {x: 0, y: 0, z: 0}
+    Row: 73
+    Col: 15
+    CubeColors:
+    - R
+    - R
