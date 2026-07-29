@@ -1,2 +1,3 @@
 ### Gameplay Video
-<video src="./GameplayVideo/LoopStack.mp4" width="100%" controls autoplay loop></video>
+
+[![Oynanış Videosu](https://img.youtube.com/vi/3qUhOzi5JO0/maxresdefault.jpg)](https://www.youtube.com/watch?v=3qUhOzi5JO0)
